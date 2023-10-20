@@ -200,7 +200,7 @@
         "World.Error.HostBlocked": "Host zablokowany",
         "World.Error.HostBlockedDetail": "Zablokowałeś hosta",
         "World.Error.WorldCrash": "Crash świata",
-        "World.Error.WorldCrashDetail": "Fatalny błąd podczas aktualizacji świata",
+        "World.Error.WorldCrashDetail": "Krytyczny błąd podczas aktualizacji świata",
         "World.Error.Unknown": "Nieznany Błąd",
 
         "World.Config.Name": "Nazwa świata:",
@@ -1260,7 +1260,7 @@
         "Settings.System.KeepOriginalScreenshotFormat": "Zachowaj oryginalny format zrzutu ekranu",
         "Settings.System.KeepOriginalScreenshotFormat.Description": "Po włączeniu zrzuty ekranu nie będą konwertowane do formatu JPG po zapisaniu w folderze Dokumenty",
 
-        "Security.Hyperlink.Title": "link Zewnętrzny",
+        "Security.Hyperlink.Title": "Link Zewnętrzny",
         "Security.Hyperlink.Warning": "<b><size=125%>Ostrzeżenie: link zewnętrzny</size></b>\nKliknąłeś link w świecie. Chcesz go otworzyć? Otworzy się w przeglądarce internetowej na komputerze.",
         "Security.Hyperlink.Open": "Otwórz",
         "Security.Hyperlink.Cancel": "Anuluj",
@@ -1276,8 +1276,8 @@
         "ComponentSelector.Back": "< (wstecz)",
         "ComponentSelector.Title": "Components",
         "ComponentSelector.CreateCustomType": "Utwórz typ niestandardowy",
-        "ComponentSelector.CommonGenericTypes" : "Powszechne typy generyczne:",
-        "ComponentSelector.CustomGenericArguments" : "Niestandardowe argumenty generyczne:",
+        "ComponentSelector.CommonGenericTypes" : "Powszechne typy ogólne:",
+        "ComponentSelector.CustomGenericArguments" : "Niestandardowe argumenty ogólne:",
         "ComponentSelector.InvalidType": "Nieprawidłowy typ",
 
         "Inspector.Title": "Inspektor sceny",
