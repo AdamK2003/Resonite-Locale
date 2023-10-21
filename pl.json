@@ -426,13 +426,13 @@
         "Login.EmailNotVerified.Description": "Twój adres e-mail nie jest zweryfikowany. Sprawdź swoją skrzynkę odbiorczą (w tym folder spam) i poszukaj wiadomości od nas.",
 
         "Login.AccountTempLocked": "Twoje konto jest zablokowane.",
-        "Login.AccountTempLocked.Description": "Skontaktuj się z Moderatorami: moderation.resonite.com",
+        "Login.AccountTempLocked.Description": "Skontaktuj się z Moderatorami: {moderationUrl}",
 
         "Login.AccountBanned": "Twoje konto zostało zbanowane.",
-        "Login.AccountBanned.Description": "Skontaktuj się z Moderatorami: moderation.resonite.com",
+        "Login.AccountBanned.Description": "Skontaktuj się z Moderatorami: {moderationUrl}",
 
         "Login.DuplicateAccount": "Zduplikowane konto",
-        "Login.DuplicateAccount.Description": "Skontaktuj się z pomocą techniczną: support.resonite.com",
+        "Login.DuplicateAccount.Description": "Skontaktuj się z pomocą techniczną: {supportUrl}",
 
         "Register.MissingRequest": "Brak danych rejestracyjnych",
         "Register.MissingRequest.Description": "Czy na pewno wpisałeś dane rejestracyjne?",
@@ -471,13 +471,13 @@
         "Register.InvalidPassword.Description": "Wpisane hasło jest nieprawidłowe. Hasło musi zawierać co najmniej 8 znaków, w tym co najmniej jedną małą literę, jedną dużą literę i jedną cyfrę.",
 
         "Register.EmailAlreadyRegistered": "E-mail już zarejestrowany",
-        "Register.EmailAlreadyRegistered.Description": "Ten adres e-mail jest już zarejestrowany. Jeśli zapomniałeś hasła, kliknij \"Zgubione Hasło?\". Możesz też skontaktować się z pomocą techniczną: support.resonite.com",
+        "Register.EmailAlreadyRegistered.Description": "Ten adres e-mail jest już zarejestrowany. Jeśli zapomniałeś hasła, kliknij \"Zgubione Hasło?\". Możesz też skontaktować się z pomocą techniczną: {supportUrl}",
 
         "Register.UsernameAlreadyRegistered": "Nazwa użytkownika jest już zarejestrowana",
-        "Register.UsernameAlreadyRegistered.Description": "Ta nazwa użytkownika jest już zarejestrowana. Jeśli zapomniałeś hasła, kliknij \"Zgubione Hasło?\". Możesz też skontaktować się z pomocą techniczną: support.resonite.com",
+        "Register.UsernameAlreadyRegistered.Description": "Ta nazwa użytkownika jest już zarejestrowana. Jeśli zapomniałeś hasła, kliknij \"Zgubione Hasło?\". Możesz też skontaktować się z pomocą techniczną: {supportUrl}",
 
         "Register.ErrorCheckingUserId": "Błąd podczas sprawdzania identyfikatora użytkownika",
-        "Register.ErrorCheckingUserId.Description": "Skontaktuj się z pomocą techniczną: support.resonite.com",
+        "Register.ErrorCheckingUserId.Description": "Skontaktuj się z pomocą techniczną: {supportUrl}",
 
         "Recovery.MissingEmail": "Brakujący e-mail",
         "Recovery.MissingEmail.Description": "Czy na pewno wpisałeś e-mail?",
@@ -486,10 +486,10 @@
         "Recovery.IncorrectEmail.Description": "Wpisany e-mail jest nieprawidłowy.",
 
         "Recovery.NoPasswordSetup": "Nie skonfigurowano hasła",
-        "Recovery.NoPasswordSetup.Description": "Skontaktuj się z pomocą techniczną: support.resonite.com",
+        "Recovery.NoPasswordSetup.Description": "Skontaktuj się z pomocą techniczną: {supportUrl}",
 
         "Register.UnknownError": "Nieznany błąd",
-        "Register.UnknownError.Description": "Przy rejestracji wystąpił nieznany błąd. Skontaktuj się z pomocą techniczną: support.resonite.com",
+        "Register.UnknownError.Description": "Przy rejestracji wystąpił nieznany błąd. Skontaktuj się z pomocą techniczną: {supportUrl}",
 
         "Account.Login": "Zaloguj się",
         "Account.Logout": "Wyloguj się",
